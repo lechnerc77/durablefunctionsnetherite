@@ -1,0 +1,2 @@
+### Plain request to kick off Durable Function
+GET http://localhost:7071/api/orchestrators/DurableFunctionsOrchestrator4Netherite
